@@ -1,4 +1,5 @@
-# Kaila Pillay 
+# Kaila Pillay
+
 
 ### Bachelor of ICT (IoT) Student | Aspiring Software Developer
 
@@ -9,3 +10,10 @@ My academic journey has exposed me to various areas of ICT, including software d
 I have developed a particular interest in database systems, web development, data analytics and software development.
 
 I enjoy tackling challenges that require analytical thinking, problem-solving and continuous learning. I find that taking on challenging tasks allows me to discover what I'm capable of, push beyond my comfort zone and develop practical solutions while continuously expanding my technical skills and knowledge.
+
+## Connect With Me
+
+- **LinkedIn:** [Kaila Pillay](https://www.linkedin.com/in/kaila-pillay-025015386/)
+- **Email:** kailastudent27@gmail.com
+- **Student Email:** 25041010@dut4life.ac.za
+- **GitHub:** [Kaila-Pillay](https://github.com/Kaila-Pillay)
